@@ -37,16 +37,29 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: 'mailto:1032182976@pfur.ru'
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: '#'
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/guron930
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-3468-2180
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Sergey_Shvets
+- icon: publons
+  icon_pack: ai
+  link: https://publons.com/researcher/3651532/sergey-shvets/
+- icon: mendeley
+  icon_pack: ai
+  link: https://www.mendeley.com/profiles/-357681/
+- icon: academia
+  icon_pack: ai
+  link: https://rudn.academia.edu/СергейШвец
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
