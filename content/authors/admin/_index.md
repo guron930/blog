@@ -77,3 +77,5 @@ user_groups:
 ---
 
 Student of the second course of RUDN University, of directory "Fundemental Informatics and information technologies". Good student, work hard.
+
+Want to be nice programming engineer.
